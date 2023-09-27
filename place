@@ -1,1 +1,5 @@
-l
+if game.PlaceId == 13864661000 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItsRhylee/breakin2/main/lobby"))()
+else
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItsRhylee/breakin2/main/ingame"))()
+end
