@@ -1,5 +1,7 @@
 if game.PlaceId == 13864661000 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ItsRhylee/breakin2/main/lobby"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rhywme/breakin2/main/lobby"))()
 else
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ItsRhylee/breakin2/main/ingame"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rhywme/breakin2/main/ingame"))()
 end
+
+-- logs: i changed my github username and let me know if you find any bugs @youtrhy my discord addy.
