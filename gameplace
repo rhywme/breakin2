@@ -4,4 +4,4 @@ else
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rhywme/breakin2/main/ingame"))()
 end
 
--- logs: i changed my github username and let me know if you find any bugs @youtrhy my discord addy.
+--logs: i changed my github username and i do NOT update the script anymore since i'm broke to buy an executor.
